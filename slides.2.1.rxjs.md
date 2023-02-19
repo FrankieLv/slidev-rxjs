@@ -1,8 +1,19 @@
-# 2.1 Rxjs
+---
+layout: two-cols
+---
 
-# https://rxjs.dev
+<template v-slot:default>
+
+# Rxjs
+
+## https://rxjs.dev
+
+</template>
+<template v-slot:right>
 
 <img src="/images/Rx_Logo.png" class="m-1 h-60 rounded shadow" />
+
+</template>
 
 <!-- 
 1. Rxjs是实现响应式编程的一个工具。
@@ -12,7 +23,7 @@
 -->
 ---
 
-# 2.2 A Simple Running Example
+# A Simple Running Example
 
 Example Link: 
 https://stackblitz.com/edit/rxjs-ddvox5?file=README.md

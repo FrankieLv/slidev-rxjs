@@ -4,7 +4,7 @@ layout: two-cols
 
 <template v-slot:default>
 
-# 5.1 Creation
+# Creation
 * of
 * interval
 * fromEvent

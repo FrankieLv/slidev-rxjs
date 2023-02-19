@@ -1,5 +1,6 @@
 ---
 theme: seriph
+background: /images
 background-color: white
 class: text-center
 highlighter: shiki
@@ -27,8 +28,8 @@ colorSchema: 'light'
 1. Reactive Programming/Functional Programming
 2. Rxjs
 3. Observable & Observer
-4. Hot Observable & Cold Observable
-5. Using Operators
+4. Using Operators
+5. Hot Observable & Cold Observable
 6. Subject
 7. Controlling with Schedulers
 
@@ -40,46 +41,87 @@ colorSchema: 'light'
 -->
 
 ---
-src: ./slides.1.history.md
+src: ./slides.1.0.history.md
 ---
 
 ---
-src: ./slides.2.rxjs.md
+src: ./slides.2.0.rxjs.md
 ---
 
 ---
-src: ./slides.3.observable&observer.md
+src: ./slides.2.1.rxjs.md
 ---
 
 ---
-src: ./slides.4.hotcoldobservable.md
+src: ./slides.3.0.observable&observer.md
 ---
 
 ---
-src: ./slides.5.1.operators.md
+src: ./slides.4.0.operators.md
 ---
 
 ---
-src: ./slides.5.2.operators.md
+src: ./slides.4.1.operators.md
 ---
 
 ---
-src: ./slides.5.3.operators.md
+src: ./slides.4.2.operators.md
 ---
 
 ---
-src: ./slides.5.4.operators.md
+src: ./slides.4.3.operators.md
 ---
 
 ---
-src: ./slides.5.5.operators.md
+src: ./slides.4.4.operators.md
 ---
 
 ---
-src: ./slides.5.6.operators.md
+src: ./slides.4.5.operators.md
 ---
 
 ---
-src: ./slides.5.7.operators.md
+src: ./slides.4.6.operators.md
 ---
+
+---
+src: ./slides.4.7.operators.md
+---
+
+---
+src: ./slides.5.0.hotcoldobservable.md
+---
+
+---
+src: ./slides.5.1.hotcoldobservable.md
+---
+
+---
+src: ./slides.6.0.subject.md
+---
+
+---
+src: ./slides.6.1.subject.md
+---
+
+---
+src: ./slides.6.2.subject.md
+---
+
+---
+src: ./slides.6.3.subject.md
+---
+
+---
+src: ./slides.6.4.subject.md
+---
+
+---
+src: ./slides.7.0.scheduler.md
+---
+
+---
+src: ./slides.end.md
+---
+
 

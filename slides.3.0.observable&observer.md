@@ -1,4 +1,12 @@
-# 3.1 What is an Observable and Observer?
+---
+layout: center
+---
+
+# 3 - Observable & Observer
+
+---
+
+# What is an Observable and Observer?
 
 <img src="/images/Observable&Observer.png" class="m-1 h-60 rounded shadow" />
 
@@ -10,7 +18,7 @@
 -->
 ---
 
-# 3.2 Create Observable
+# Create Observable
 
 Example Link: 
 https://stackblitz.com/run?devtoolsheight=50&file=index.ts
@@ -39,17 +47,14 @@ const observable = new Observable(function subscribe(subscriber) {
 -->
 ---
 
-# 3.3 Observable Status
-<div class="grid grid-cols-3 gap-10 pt-4 -mb-6">
-
-```mermaid {scale: 0.5}
-sequenceDiagram
-    Process->Process: next() send data
-    Process->Completed: completed
-    Process->Error: Error
+# Observable Status
+```mermaid {scale: 1}
+flowchart LR
+    Observable--> Process
+    Process-- "next()" -->Process
+    Process-- "complete()" -->Completed
+    Process-- "error()" -->Error   
 ```
-</div>
-
 
 <!-- 
 1. 从图中，我们可以看到Observable共有三种状态
@@ -66,7 +71,8 @@ sequenceDiagram
 -->
 
 ---
-# 3.3 Observer
+
+# Observer
 
 https://stackblitz.com/edit/wspzmb?devtoolsheight=50&file=index.ts
 

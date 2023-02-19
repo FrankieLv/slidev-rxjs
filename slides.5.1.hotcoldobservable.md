@@ -4,7 +4,7 @@ layout: two-cols
 
 <template v-slot:default>
 
-# 4.1 Hot Observerable 
+# Hot Observerable 
 
 <img src="/images/TV.png" class="m-1 h-60 rounded shadow" />
 
@@ -26,7 +26,7 @@ layout: two-cols
 
 ---
 
-# 4.2 Cold Observable
+# Cold Observable
 Example Link: https://stackblitz.com/edit/7znxxw?devtoolsheight=50&file=index.ts 
 ```ts {}
 import { interval, take } from 'rxjs';
@@ -54,7 +54,7 @@ Output:
 -->
 ---
 
-# 4.3 HotObservable
+# HotObservable
 
 - fromPromise
 - fromEvent

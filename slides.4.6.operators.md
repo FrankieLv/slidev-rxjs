@@ -4,7 +4,7 @@ layout: two-cols
 
 <template v-slot:default>
 
-# 5.6 Error Handling
+# Error Handling
 * catchError
 * retry
 * retryWhen

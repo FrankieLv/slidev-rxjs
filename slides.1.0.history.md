@@ -1,5 +1,14 @@
-# 1.1 Reactive Programming
-图片
+---
+layout: center
+---
+
+# 1 - Reactive Programming & Function Programming
+
+---
+
+# Reactive Programming
+
+<img src="/images/huanghe.png" class="m-1 h-60 rounded shadow" />
 <!-- 
 1. 响应式编程是基于数据流和对数据流中数据发生的变化(变化传递)做出响应的编程范式。
 2. 简单说，可以把这个过程想象为，一条河流，河流总有一个源头，河水在河床中流淌，下游的人们对河水有不同的用途。
@@ -14,7 +23,7 @@ b. 那异步的过程，就是程序发送请求到后端后，它会直接进�
 -->
 ---
 
-# 1.2 Function Programming
+# Function Programming
 Functional programming is a way of programming that places great importance on using functions to solve problems
 
 Object oriented programming: command
@@ -43,7 +52,7 @@ function addone(arr){
 ---
 layout: center
 ---
-# 1.3 函数式编程是一个全新的概念？
+# Is functional programming a new concept?
 <!-- 
 说来话长， 想当年，阿兰*图灵和冯*诺依曼祖师爷创立计算机这么学科，因为前无古人，所以最早一批学者都有其他专业的背景。
 

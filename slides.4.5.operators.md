@@ -1,4 +1,4 @@
-# 5.5 try-catch-finally
+# try-catch-finally
 "try-catch-finally" does not work anymore
 ```ts {}
 
