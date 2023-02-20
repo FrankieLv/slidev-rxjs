@@ -1,6 +1,5 @@
 ---
 theme: seriph
-background: /images
 background-color: white
 class: text-center
 highlighter: shiki
@@ -11,10 +10,10 @@ transition: slide-left
 css: unocss
 title: Welcome to Rxjs
 colorSchema: 'light'
+layout: center
 ---
-
 # RxJs: Reactive Programming
-2023 March
+-- 2023 March
 
 <!--
 同学们好，欢迎参加金兰的定制班课程，今年是我工作的第十二个年头，也是在金兰软件的第6年。作为金兰软件的成员，还是很自豪，有一群志同道合的同事和良好的工作学习氛围。希望在座中的你们，在未来也有机会加入。
