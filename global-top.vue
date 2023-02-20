@@ -11,6 +11,6 @@
    $slidev.nav.currentPage == 36
   "
   class="absolute top-0 left-0">
-    <img src="/images/title.PNG" />
+    <img src="/images/title.png" />
   </footer>
 </template>
