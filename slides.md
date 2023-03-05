@@ -11,7 +11,6 @@ css: unocss
 title: Welcome to Rxjs
 colorSchema: 'light'
 layout: center
-download: true
 ---
 # RxJs: Reactive Programming
 -- 2023 March
