@@ -2,4 +2,4 @@
 layout: center
 ---
 
-# 6 - Controlling with Schedulers
+# 6 - Subject

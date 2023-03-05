@@ -2,7 +2,7 @@
 layout: center
 ---
 
-# 7 - Scheduler
+# 7 - Controlling with Schedulers
 
 ---
 
