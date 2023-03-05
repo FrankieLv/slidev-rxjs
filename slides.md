@@ -11,6 +11,7 @@ css: unocss
 title: Welcome to Rxjs
 colorSchema: 'light'
 layout: center
+download: 'https://frankielv.netlify.app/rxjs.pdf'
 ---
 # RxJs: Reactive Programming
 -- 2023 March

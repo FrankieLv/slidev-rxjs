@@ -21,7 +21,7 @@ layout: center
 # Create Observable
 
 Example Link: 
-https://stackblitz.com/run?devtoolsheight=50&file=index.ts
+https://stackblitz.com/edit/dysnp7?devtoolsheight=50&file=index.ts
 
 ```ts {}
 import { Observable } from 'rxjs';
