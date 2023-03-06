@@ -40,7 +40,7 @@ function addone(arr){
 Functional programming: declarative
 ```ts {}
 function addone(arr){
-    return arr.map( arr => arr.map(item => item + 1) )
+    return arr.map( item => item + 1);
 }
 ```
 
